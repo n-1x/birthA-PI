@@ -1,0 +1,23 @@
+{
+  "name": "kbday-api",
+  "version": "0.0.1",
+  "description": "An API that provides access to a database of idol birthdays.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "sqlite3": "^4.1.1"
+  },
+  "engines": {
+    "node": "15.x"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "korean",
+    "idol",
+    "birthday"
+  ]
+}
